@@ -8,5 +8,7 @@
  
  It now includes steps for GitHub.
  
- This is a new line for Push Branch to GitHub Exercise
+ This is a new line for Push Branch to GitHub Exercise.
+
+ Here's another new line, just for practice.
  
